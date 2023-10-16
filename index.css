@@ -1,5 +1,4 @@
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
     color: brown;
     font-weight: bold;
 }
@@ -13,7 +12,6 @@ p {
 }
 
 .card-title {
-    font-family: Arial, Helvetica, sans-serif;
     color: brown;
     font-weight: bold;
 }
@@ -26,10 +24,6 @@ p {
     margin-bottom: 40px;
 }
 
-.card-text {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 /* Point 11.a. */
 .col-sm-9 {
     background-image: url('images/image_9.png');
@@ -39,16 +33,11 @@ p {
 }
 
 /* Point 11.b. */
-.background-image {
+.background_image_text {
     color: white;
 }
 
-.bg-danger {
-    margin-right: 60px;
-    margin-left: 60px;
-}
-
-.col-md {
+.col-md-3 {
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -57,6 +46,7 @@ p {
     margin-right: 60px;
     margin-left: 60px;
     margin-bottom: 30px;
+    text-align: justify;
 }
 
 .container {
